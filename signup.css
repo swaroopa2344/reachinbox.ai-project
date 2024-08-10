@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aliceblue;
+    
+}
+h2{
+   padding-top: 5%;
+}
+.whole{
+background-color: black;
+}
+.form-box{
+    margin-top: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    border: 2%;
+    border-radius: 2%;
+   
+    background-color: rgb(46, 44, 44);
+
+}
+.input-field{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.button{
+    display: flex;
+    justify-content: center;
+
+  background:rgb(46, 44, 44);
+  
+    
+}
+button{
+    background-color: rgb(116, 116, 233);
+}
